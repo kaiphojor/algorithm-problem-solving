@@ -6,7 +6,7 @@
 
 1. Node 설치 : 직접 설치 or fnm(fast node manager) 통한 설치
 
-2. Code Runner Extension 설치
+2. Code Runner vs-code Extension 설치
 
 3. [Code Runner 환경 설정](https://stackoverflow.com/questions/44983472/how-to-run-javascript-code-in-visual-studio-code-bin-sh-1-node-not-found)
 
@@ -86,3 +86,8 @@ describe('무엇이',()=>{
 });
 ```
 
+## SOLVED (JS)
+
+|번호|제목|분류|코드|테스트|
+|:---:|:---:|:---:|:---:|:---:|
+|1|폰켓몬|해시|[코드](/javascript/programmers-1-1.js)|[테스트](/javascript/programmers-1-1.test.js)|
