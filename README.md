@@ -90,4 +90,5 @@ describe('무엇이',()=>{
 
 |**번호**|**제목**|**분류**|**코드**|**테스트**|
 |:---:|:---:|:---:|:---:|:---:|
+|2|2016년|구현|[코드](/javascript/programmers-1-2.js)|[테스트](/javascript/programmers-1-2.test.js)|
 |1|폰켓몬|해시|[코드](/javascript/programmers-1-1.js)|[테스트](/javascript/programmers-1-1.test.js)|
