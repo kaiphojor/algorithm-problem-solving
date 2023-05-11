@@ -4,11 +4,11 @@
 
 ## 환경 설정(Javascript(Node) & VS-CODE & WSL & Jest)
 
-1. Node 설치 : 직접 설치 or fnm(fast node manager) 통한 설치
+### 1. Node 설치 : 직접 설치 or fnm(fast node manager) 통한 설치
 
-2. Code Runner vs-code Extension 설치
+### 2. Code Runner vs-code Extension 설치
 
-3. [Code Runner 환경 설정](https://stackoverflow.com/questions/44983472/how-to-run-javascript-code-in-visual-studio-code-bin-sh-1-node-not-found)
+### 3. [Code Runner 환경 설정](https://stackoverflow.com/questions/44983472/how-to-run-javascript-code-in-visual-studio-code-bin-sh-1-node-not-found)
 
 ```bash
 which node
@@ -29,7 +29,7 @@ which node
 
 code runner 실행은 `Ctrl + Alt + N` 으로 가능
 
-4. jest 설치
+### 4. jest 설치
 
 ```bash
 # jest 설치

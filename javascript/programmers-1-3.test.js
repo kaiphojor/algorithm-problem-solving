@@ -1,6 +1,10 @@
+/* eslint-disable no-undef */
 
-const solution1_3 = require('./programmers-1-3');
 const { describe, it } = require('node:test');
+// eslint-disable-next-line camelcase
+const solution1_3 = require('./programmers-1-3');
+
+test('', () => {});
 
 const context = describe;
 describe('단어는', () => {
